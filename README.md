@@ -1,7 +1,7 @@
 #### Hi 👋, I'm Muhammad Hamid
 ##### **Senior C#/JavaScript Developer**
 
-[![](https://visitcount.itsvg.in/api?id=mughalhamid&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mughalhamid&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 - 🔭 I am currently working as a **Full-Stack Developer with expertise in C#/.NET/ASP.NET, Angular, ReactJs, Node.js, Xamarin and .Net Maui**.
 
